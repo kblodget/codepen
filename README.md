@@ -1,2 +1,0 @@
-# codepen
-Created with CodeSandbox
